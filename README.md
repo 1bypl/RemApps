@@ -28,11 +28,11 @@ oraz w interfejsie programu i w zakładce „O programie".
 
 ### Programy
 
-![Lista zainstalowanych programów](github/screenshots/programy.png)
+![Lista zainstalowanych programów]([github](https:/github.com/screenshots/programy.png)
 
 ### Czyszczenie i pielęgnacja systemu
 
-![Zakładka czyszczenia](github/screenshots/czyszczenie.png)
+![Zakładka czyszczenia]([github](https://github.com/1bypl/RemApps-/blob/main/czyszczenie.png))
 
 ### Ustawienia
 
