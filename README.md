@@ -24,30 +24,6 @@ oraz w interfejsie programu i w zakładce „O programie".
 
 ---
 
-## Zrzuty ekranu
-
-### Programy
-
-![Lista zainstalowanych programów]([github](https:/github.com/screenshots/programy.png)
-
-### Czyszczenie i pielęgnacja systemu
-
-![Zakładka czyszczenia]([github](https://github.com/1bypl/RemApps-/blob/main/czyszczenie.png))
-
-### Ustawienia
-
-![Zakładka ustawień](github/screenshots/ustawienia.png)
-
-### O programie
-
-![Zakładka o programie z logo krokodyla](github/screenshots/oprogramie.png)
-
-Zrzuty wykonano na **Fedorze 45 (KDE Plasma)**. Na pierwszym widać m.in.
-2779 wykrytych programów oraz czasy skanowania w pasku stanu
-(`rpm: 0.75s, flatpak: 0.02s, snap: 0.0s, appimage: 0.0s, desktop: 0.02s`).
-
----
-
 ## Co potrafi RemApps
 
 ### Zakładka „Programy"
