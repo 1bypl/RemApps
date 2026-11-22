@@ -19,7 +19,7 @@ Potrafi też usuwać aplikacje **Flatpak (także z Flathub)**, **Snap** i **AppI
 
 Logo to zielony, uśmiechnięty krokodyl trzymający w łapkach narzędzia
 (klucz i śrubokręt) – symbol naprawy i porządku w systemie. Ikona znajduje
-się w pliku [`remapps/resources/logo.svg`](remapps/resources/logo.svg)
+się w pliku [`remapps/resources/logo.svg`](https://github.com/remapps/resources/logo.svg)
 oraz w interfejsie programu i w zakładce „O programie".
 
 ---
@@ -28,19 +28,19 @@ oraz w interfejsie programu i w zakładce „O programie".
 
 ### Programy
 
-![Lista zainstalowanych programów](github/screenshots/programy.png)
+![Lista zainstalowanych programów](https://github.com/screenshots/programy.png)
 
 ### Czyszczenie i pielęgnacja systemu
 
-![Zakładka czyszczenia](github/screenshots/czyszczenie.png)
+![Zakładka czyszczenia](https://github.com/screenshots/czyszczenie.png)
 
 ### Ustawienia
 
-![Zakładka ustawień](github/screenshots/ustawienia.png)
+![Zakładka ustawień](https://github.com/screenshots/ustawienia.png)
 
 ### O programie
 
-![Zakładka o programie z logo krokodyla](github/screenshots/oprogramie.png)
+![Zakładka o programie z logo krokodyla](https://github.com/screenshots/oprogramie.png)
 
 Zrzuty wykonano na **Fedorze 45 (KDE Plasma)**. Na pierwszym widać m.in.
 2779 wykrytych programów oraz czasy skanowania w pasku stanu
@@ -94,7 +94,7 @@ Zrzuty wykonano na **Fedorze 45 (KDE Plasma)**. Na pierwszym widać m.in.
 ### Zakładka „O programie"
 Przeznaczenie, sposób działania na Fedorze i Debian/Ubuntu, licencja
 **GPL 3**, ostrzeżenie o odpowiedzialności użytkownika, autor **1bypl**
-oraz odnośnik do GitHuba: <https://github.com/1bypl/RemApps>.
+oraz odnośnik do GitHuba: <https://github.com/1bypl/>.
 
 ---
 
@@ -243,7 +243,7 @@ Mimo to usuwanie oprogramowania zawsze może coś zepsuć. **Rób kopie zapasowe
 
 ## Autor i licencja
 
-**Twórca:** 1bypl — <https://github.com/1bypl/RemApps>
+**Twórca:** 1bypl — <https://github.com/1bypl/>
 
 **Licencja:** GNU GPL wersja 3 lub nowsza (GPL-3.0-or-later).
 
