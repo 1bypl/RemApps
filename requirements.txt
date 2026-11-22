@@ -1,0 +1,3 @@
+# Zależności RemApps (wersja developerska)
+# Na Fedorze/Debianie lepiej użyć instalatorów z folderu install/
+PySide6>=6.6

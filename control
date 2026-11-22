@@ -1,0 +1,15 @@
+Package: remapps
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.9), python3-pyside6.qtwidgets, python3-pyside6.qtsvg, policykit-1
+Maintainer: 1bypl <1bypl@users.noreply.github.com>
+Homepage: https://github.com/1bypl/RemApps
+Description: Menedżer odinstalowywania i czyszczenia systemu
+ RemApps to graficzne narzędzie do znajdowania i odinstalowywania
+ wszystkich zainstalowanych programów wraz z plikami konfiguracyjnymi.
+ Obsługuje pakiety RPM/DEB, Flatpak, Snap, AppImage oraz skróty .desktop.
+ Posiada również czyszczenie kosza, pamięci podręcznych, historii
+ przeglądarek i starych logów. Interfejs dostępny jest w 8 językach.
+ Użytkownik korzysta z programu wyłącznie na własną odpowiedzialność.

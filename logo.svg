@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#42d473"/>
+      <stop offset="1" stop-color="#0c5a2d"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a7b6bf"/>
+    </linearGradient>
+  </defs>
+
+  <!-- tło -->
+  <rect x="3" y="3" width="122" height="122" rx="28"
+        fill="url(#bg)" stroke="#08371c" stroke-width="5"/>
+
+  <!-- narzędzia w tle -->
+  <g transform="rotate(42 36 92)">
+    <rect x="32" y="60" width="8" height="48" rx="4"
+          fill="url(#metal)" stroke="#08371c" stroke-width="2.5"/>
+    <rect x="26" y="103" width="20" height="24" rx="7"
+          fill="#f0553e" stroke="#7d2118" stroke-width="3"/>
+  </g>
+  <g transform="rotate(-42 36 92)">
+    <circle cx="36" cy="66" r="11" fill="none"
+            stroke="#08371c" stroke-width="9"/>
+    <circle cx="36" cy="66" r="11" fill="none"
+            stroke="url(#metal)" stroke-width="6"/>
+    <rect x="33" y="60" width="6" height="11" fill="url(#bg)"/>
+    <rect x="33" y="74" width="6" height="39" rx="3"
+          fill="url(#metal)" stroke="#08371c" stroke-width="2"/>
+  </g>
+
+  <!-- tułów krokodyla -->
+  <ellipse cx="43" cy="71" rx="30" ry="28"
+           fill="#2fa347" stroke="#08371c" stroke-width="5"/>
+
+  <!-- łuski na grzbiecie -->
+  <g fill="#1c7d38" stroke="#08371c" stroke-width="2.5">
+    <polygon points="19,55 15,41 28,50"/>
+    <polygon points="28,47 27,33 39,44"/>
+    <polygon points="39,43 41,30 49,43"/>
+  </g>
+
+  <!-- oko -->
+  <circle cx="51" cy="48" r="14" fill="#2fa347" stroke="#08371c" stroke-width="5"/>
+  <circle cx="51" cy="48" r="9.5" fill="#ffffff" stroke="#08371c" stroke-width="3"/>
+  <circle cx="53" cy="48" r="5.2" fill="#0d2413"/>
+  <circle cx="54.7" cy="46" r="2" fill="#ffffff"/>
+
+  <!-- długa górna szczęka -->
+  <path d="M43 62 Q52 53 67 54 L104 58 Q118 60 118 69
+           Q118 78 104 78 L53 81 Q43 80 43 70 Z"
+        fill="#74d982" stroke="#08371c" stroke-width="5"/>
+  <!-- dolna szczęka -->
+  <path d="M45 81 L104 78 Q116 78 114 88 Q111 96 98 94
+           L54 94 Q45 93 45 84 Z"
+        fill="#4db85e" stroke="#08371c" stroke-width="5"/>
+
+  <!-- trzy duże zęby -->
+  <g fill="#ffffff" stroke="#08371c" stroke-width="2">
+    <polygon points="59,78 66,90 73,78"/>
+    <polygon points="79,77 86,89 93,77"/>
+    <polygon points="99,77 105,87 111,77"/>
+  </g>
+
+  <!-- nozdrze -->
+  <ellipse cx="110" cy="64" rx="3.5" ry="2.6" fill="#08371c"/>
+
+  <!-- klucz z przodu -->
+  <g transform="rotate(48 34 100)">
+    <circle cx="34" cy="82" r="9" fill="none"
+            stroke="#08371c" stroke-width="10"/>
+    <circle cx="34" cy="82" r="9" fill="none"
+            stroke="url(#metal)" stroke-width="6"/>
+    <rect x="31" y="79" width="6" height="9" fill="url(#bg)"/>
+    <rect x="31" y="89" width="6" height="29" rx="3"
+          fill="url(#metal)" stroke="#08371c" stroke-width="2"/>
+  </g>
+</svg>
