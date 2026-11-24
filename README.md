@@ -208,7 +208,7 @@ Mimo to usuwanie oprogramowania zawsze może coś zepsuć. **Rób kopie zapasowe
 
 ## Autor i licencja
 
-**Twórca:** 1bypl — <https://github.com/1bypl/RemApps>
+**Twórca:** 1bypl — <https://github.com/1bypl/>
 
 **Licencja:** GNU GPL wersja 3 lub nowsza (GPL-3.0-or-later).
 
