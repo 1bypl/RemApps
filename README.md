@@ -13,17 +13,6 @@ Potrafi też usuwać aplikacje **Flatpak (także z Flathub)**, **Snap** i **AppI
 > na własną odpowiedzialność. Zawsze czytaj okna potwierdzenia i wykonuj
 > kopię ważnych danych. Dostępny jest też **tryb symulacji**, który nic nie usuwa.
 
----
-
-## Wygląd i ikona
-
-Logo to zielony, uśmiechnięty krokodyl trzymający w łapkach narzędzia
-(klucz i śrubokręt) – symbol naprawy i porządku w systemie. Ikona znajduje
-się w pliku [`remapps/resources/logo.svg`](remapps/resources/logo.svg)
-oraz w interfejsie programu i w zakładce „O programie".
-
----
-
 ## Co potrafi RemApps
 
 ### Zakładka „Programy"
