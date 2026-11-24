@@ -202,7 +202,7 @@ Mimo to usuwanie oprogramowania zawsze może coś zepsuć. **Rób kopie zapasowe
 
 - [`INFO.md`](INFO.md) – krótka informacja o projekcie,
 - [`AUDIT.md`](AUDIT.md) – audyt bezpieczeństwa i jakości kodu,
-- [`DOKUMENTACJA/`](DOKUMENTACJA/) – instrukcja użytkownika i info o licencji.
+- [`DOKUMENTACJA/`](Instrukcja.md) – instrukcja użytkownika i info o licencji.
 
 ---
 
