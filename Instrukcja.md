@@ -86,4 +86,4 @@ Nie. Dlatego warto najpierw użyć trybu symulacji i zrobić kopię danych.
 
 ## Kontakt
 
-https://github.com/1bypl/RemApps/issues
+https://github.com/1bypl/
